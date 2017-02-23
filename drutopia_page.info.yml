@@ -1,10 +1,14 @@
-name: 'Page'
+name: Page
 description: 'Provides Basic page content type and related configuration. Use <em>basic pages</em> for your static content, such as an ''About us'' page.'
 type: module
 core: 8.x
 dependencies:
+  - drutopia_core
+  - ds
+  - entity_reference_revisions
   - field
   - node
+  - paragraphs
   - path
   - rdf
   - text

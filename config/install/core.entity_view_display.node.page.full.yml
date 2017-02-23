@@ -2,12 +2,14 @@ langcode: en
 status: true
 dependencies:
   config:
+    - core.entity_view_mode.node.full
     - field.field.node.page.body
     - field.field.node.page.field_body_paragraph
     - field.field.node.page.field_summary
     - node.type.page
   module:
     - ds
+    - entity_reference_revisions
     - user
 third_party_settings:
   ds:
@@ -26,14 +28,34 @@ third_party_settings:
         link_custom: ''
         classes:
           layout_class: {  }
-    regions: {  }
-id: node.page.default
+    regions:
+      ds_content:
+        - node_title
+        - field_body_paragraph
+        - links
+    fields:
+      node_title:
+        plugin_id: node_title
+        weight: 0
+        label: hidden
+        formatter: default
+id: node.page.full
 targetEntityType: node
 bundle: page
-mode: default
-content: {  }
+mode: full
+content:
+  field_body_paragraph:
+    weight: 1
+    label: hidden
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    type: entity_reference_revisions_entity_view
+  links:
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
 hidden:
   body: true
-  field_body_paragraph: true
   field_summary: true
-  links: true
