@@ -45,10 +45,12 @@ content:
       link: ''
     third_party_settings: {  }
     type: entity_reference_revisions_entity_view
+    region: ds_content
   links:
     weight: 2
     settings: {  }
     third_party_settings: {  }
+    region: ds_content
 hidden:
   body: true
   field_summary: true

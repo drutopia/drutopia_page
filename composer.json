@@ -1,8 +1,14 @@
 {
-    "name": "drupal/drutopia_page",
-    "description": "Drutopia page is a base feature providing a page content type and related configuration.",
-    "type": "drupal-module",
-    "license": "GPL-2.0+",
-    "homepage": "https://gitlab.com/drutopia/drutopia_page",
-    "minimum-stability": "dev"
+  "name": "drupal/drutopia_page",
+  "description": "Drutopia Page is a base feature providing a page content type and related configuration.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://gitlab.com/drutopia/drutopia_page",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/ctools": "^3.0",
+    "drupal/ds": "^3.0-rc1",
+    "drupal/pathauto": "^1.0",
+    "drupal/token": "^1.0"
+  }
 }

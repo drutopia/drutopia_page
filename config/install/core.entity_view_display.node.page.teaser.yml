@@ -54,10 +54,12 @@ content:
     label: hidden
     settings: {  }
     third_party_settings: {  }
+    region: ds_content
   links:
     weight: 2
     settings: {  }
     third_party_settings: {  }
+    region: ds_content
 hidden:
   body: true
   field_body_paragraph: true
