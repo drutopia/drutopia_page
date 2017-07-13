@@ -1,0 +1,16 @@
+path:
+  - permissions
+plugin: add
+actions:
+  'create page content':
+    value: 'create page content'
+  'delete page revisions':
+    value: 'delete page revisions'
+  'delete any page content':
+    value: 'delete any page content'
+  'edit any page content':
+    value: 'edit any page content'
+  'revert page revisions':
+    value: 'revert page revisions'
+  'view page revisions':
+    value: 'view page revisions'
