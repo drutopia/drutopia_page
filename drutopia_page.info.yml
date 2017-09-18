@@ -11,7 +11,9 @@ dependencies:
   - node
   - paragraphs
   - path
+  - pathauto
   - rdf
+  - system
   - text
   - user
 package: Drutopia
