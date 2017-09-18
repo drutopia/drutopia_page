@@ -11,7 +11,7 @@ field_name: field_summary
 entity_type: node
 bundle: page
 label: Summary
-description: 'Enter a short description of what this page is about. The summary is visible is certain displays.'
+description: 'Enter a short description of what this page is about. The summary is visible in certain displays.'
 required: true
 translatable: true
 default_value: {  }
