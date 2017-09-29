@@ -47,7 +47,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2fdcf9e2-6ec4-4b5a-8421-5173c518d9f4"
+                        "value": "a79bf0e5-2f82-498d-a17c-1fcc0c308480"
                     }
                 ],
                 "lang": "en"
@@ -65,7 +65,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2fdcf9e2-6ec4-4b5a-8421-5173c518d9f4"
+                        "value": "a79bf0e5-2f82-498d-a17c-1fcc0c308480"
                     }
                 ]
             }
@@ -112,13 +112,13 @@
     "metatag": [
         {
             "value": {
-                "title": "| Drutopia Almost"
+                "title": "| Drutopialand"
             }
         }
     ],
     "field_text": [
         {
-            "value": "<p><em>When creating an About page, think about your audience and anticipate the questions they have about your organization as well as what you want them to know about you. <\/em><\/p>\r\n\r\n<h2>Drutopia<\/h2>\r\n\r\n<p><a href=\"https:\/\/drutopia.org\/\">Drutopia<\/a> is a platform cooperative, technology owned and supported by its users. Currently we are focusing on two Drupal distributions for grassroots organizations- the one you are using right now, Drutopia Base,&nbsp; and <a href=\"https:\/\/gitlab.com\/drutopia\/solidarity\">Solidarity<\/a> -&nbsp; a distribution for member-based organizations.<\/p>\r\n\r\n<h3>Drutopia Base<\/h3>\r\n\r\n<p>This distribution comes with features such as an accessible and responsive theme, popular content types and onsite fundraising . You can see a full list of features on the <a href=\"\/admin\/modules\">Modules administrative page<\/a>.<\/p>\r\n\r\n<p>We're also constantly improving Drutopia Base. You can see what features and improvements we're working on at our <a href=\"https:\/\/gitlab.com\/groups\/drutopia\/milestones\">Roadmap page<\/a>.<\/p>\r\n\r\n<p>For questions on using the distribution, you can<\/p>\r\n\r\n<ul>\r\n\t<li>consult the <a href=\"\/admin\/help\">Help pages<\/a><\/li>\r\n\t<li>ask a question in <a href=\"http:\/\/chat.drutopia.org\/\">Drutopia Chat<\/a><\/li>\r\n\t<li>File a support ticket in the <a href=\"https:\/\/gitlab.com\/drutopia\/drutopia\/issues\/new\">Drutopia GitLab Project<\/a><\/li>\r\n\t<li>email us at info@drutopia.org<\/li>\r\n<\/ul>\r\n\r\n<h2>Become a Member<\/h2>\r\n\r\n<p>Drutopia is democratic! Support the project and shape its future by <a href=\"membership\">becoming a member<\/a>. Annual dues are on a sliding scale of $10-100.<\/p>\r\n\r\n<p>Benefits include:<\/p>\r\n\r\n<ul>\r\n\t<li>vote for the leadership team<\/li>\r\n\t<li>a fully-hosted online organizing platform for $50\/month<\/li>\r\n\t<li>member support forum<\/li>\r\n\t<li>being part of a platform cooperative movement that is transforming the economy and equipping collective liberation movements with the tools they need<\/li>\r\n<\/ul>\r\n",
+            "value": "<p><em>When creating an About page, think about your audience and anticipate the questions they have about your organization as well as what you want them to know about you. <\/em><\/p>\r\n\r\n<h2>Drutopia<\/h2>\r\n\r\n<p><a href=\"https:\/\/drutopia.org\/\">Drutopia<\/a> is a platform cooperative, technology owned and supported by its users. Currently we are focusing on two Drupal distributions for grassroots organizations- the one you are using right now, Drutopia Base,&nbsp; and <a href=\"https:\/\/gitlab.com\/drutopia\/solidarity\">Solidarity<\/a> -&nbsp; a distribution for member-based organizations.<\/p>\r\n\r\n<h3>Drutopia Base<\/h3>\r\n\r\n<p>This distribution comes with features such as an accessible and responsive theme, popular content types and onsite fundraising . You can see a full list of features on the <a href=\"\/admin\/modules\">Modules administrative page<\/a>.<\/p>\r\n\r\n<p>We're also constantly improving Drutopia Base. You can see what features and improvements we're working on at our <a href=\"https:\/\/gitlab.com\/groups\/drutopia\/milestones\">Roadmap page<\/a>.<\/p>\r\n\r\n<p>For questions on using the distribution, you can<\/p>\r\n\r\n<ul>\r\n\t<li>consult the <a href=\"\/admin\/help\">Help pages<\/a><\/li>\r\n\t<li>ask a question in <a href=\"http:\/\/chat.drutopia.org\/\">Drutopia Chat<\/a><\/li>\r\n\t<li>File a support ticket in the <a href=\"https:\/\/gitlab.com\/drutopia\/drutopia\/issues\/new\">Drutopia GitLab Project<\/a><\/li>\r\n\t<li>email us at info@drutopia.org<\/li>\r\n<\/ul>\r\n\r\n<h2>Become a Member<\/h2>\r\n\r\n<p>Drutopia is democratic! Support the project and shape its future by becoming a member. Visit <a href=\"https:\/\/drutopia.org\">drutopia.org<\/a> for more information.<\/p>\r\n",
             "format": "basic_html"
         }
     ]

@@ -65,7 +65,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2fdcf9e2-6ec4-4b5a-8421-5173c518d9f4"
+                        "value": "a79bf0e5-2f82-498d-a17c-1fcc0c308480"
                     }
                 ],
                 "lang": "en"
@@ -83,7 +83,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2fdcf9e2-6ec4-4b5a-8421-5173c518d9f4"
+                        "value": "a79bf0e5-2f82-498d-a17c-1fcc0c308480"
                     }
                 ]
             }
@@ -104,7 +104,7 @@
                     }
                 ],
                 "lang": "en",
-                "target_revision_id": "388"
+                "target_revision_id": "153"
             }
         ]
     },
@@ -116,7 +116,7 @@
     ],
     "changed": [
         {
-            "value": 1506452402,
+            "value": 1506714256,
             "lang": "en"
         }
     ],
@@ -133,7 +133,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": 1506452402
+            "value": 1506714256
         }
     ],
     "revision_translation_affected": [
@@ -151,13 +151,13 @@
     "metatag": [
         {
             "value": {
-                "title": "About | Drutopia Almost"
+                "title": "About | Drutopialand"
             }
         }
     ],
     "field_summary": [
         {
-            "value": "<p>When creating an About page, think about your audience and anticipate the questions they have about your organization as well as what you want them to know about you.<\/p>\r\n",
+            "value": "<p>At the moment, summaries on Basic Pages do not get displayed elsewhere.<\/p>\r\n",
             "format": "basic_html",
             "lang": "en"
         }
