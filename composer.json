@@ -10,6 +10,7 @@
     "drupal/ctools": "^3.0",
     "drupal/ds": "^3.0-rc1",
     "drupal/pathauto": "^1.0",
-    "drupal/token": "^1.0"
+    "drupal/token": "^1.0",
+    "drupal/drutopia_seo": "1.x-dev"
   }
 }
