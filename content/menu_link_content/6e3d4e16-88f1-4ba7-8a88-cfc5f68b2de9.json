@@ -84,13 +84,6 @@
             "lang": "en"
         }
     ],
-    "metatag": [
-        {
-            "value": {
-                "title": "| Drutopia Almost"
-            }
-        }
-    ],
     "_embedded": {
         "http:\/\/drupal.org\/rest\/relation\/menu_link_content\/menu_link_content\/menu_link_content_target_entity": [
             {
