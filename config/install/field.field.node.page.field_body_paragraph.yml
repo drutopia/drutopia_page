@@ -52,10 +52,4 @@ settings:
       faq:
         enabled: true
         weight: 9
-      storyline_header:
-        weight: 13
-        enabled: false
-      storyline_item:
-        weight: 14
-        enabled: false
 field_type: entity_reference_revisions
