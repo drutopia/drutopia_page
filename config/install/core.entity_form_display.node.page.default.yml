@@ -36,7 +36,7 @@ content:
     type: entity_reference_paragraphs
     region: content
   field_meta_tags:
-    weight: 26
+    weight: 6
     settings: {  }
     third_party_settings: {  }
     type: metatag_firehose
@@ -51,31 +51,17 @@ content:
     region: content
   path:
     type: path
-    weight: 7
-    settings: {  }
-    third_party_settings: {  }
-    region: content
-  promote:
-    type: boolean_checkbox
-    settings:
-      display_label: true
     weight: 5
+    settings: {  }
     third_party_settings: {  }
     region: content
   status:
     type: boolean_checkbox
     settings:
       display_label: true
-    weight: 120
+    weight: 7
     region: content
     third_party_settings: {  }
-  sticky:
-    type: boolean_checkbox
-    settings:
-      display_label: true
-    weight: 6
-    third_party_settings: {  }
-    region: content
   title:
     type: string_textfield
     weight: 0
@@ -95,3 +81,5 @@ content:
     region: content
 hidden:
   body: true
+  promote: true
+  sticky: true
