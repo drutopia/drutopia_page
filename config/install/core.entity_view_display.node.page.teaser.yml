@@ -16,8 +16,7 @@ third_party_settings:
   ds:
     layout:
       id: ds_1col
-      path: modules/contrib/ds
-      library: ''
+      library: null
       disable_css: false
       entity_classes: all_classes
       settings:
@@ -33,7 +32,6 @@ third_party_settings:
       ds_content:
         - node_title
         - field_summary
-        - links
     fields:
       node_title:
         plugin_id: node_title
@@ -56,12 +54,8 @@ content:
     settings: {  }
     third_party_settings: {  }
     region: ds_content
-  links:
-    weight: 2
-    settings: {  }
-    third_party_settings: {  }
-    region: ds_content
 hidden:
   body: true
   field_body_paragraph: true
   field_meta_tags: true
+  links: true
