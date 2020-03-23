@@ -9,7 +9,7 @@ third_party_settings:
       - footer
       - main
     parent: 'main:'
-name: 'Page'
+name: Page
 type: page
 description: 'Use <em>pages</em> for your static content, such as an ''About us'' page.'
 help: ''
